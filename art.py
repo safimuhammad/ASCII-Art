@@ -11,6 +11,6 @@ image = Image.open('test.JPG').convert('L')
 W,H = image.size[0],image.size[1]
 
 #checking the image
-
+#checking the ASCII format
 
 print(W,H)
