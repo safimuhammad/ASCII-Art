@@ -88,3 +88,5 @@ def main ():
 
 if __name__ == "__main__":
     main()
+
+#check out.txt for output
