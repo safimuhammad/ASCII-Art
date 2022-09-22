@@ -90,3 +90,4 @@ if __name__ == "__main__":
     main()
 
 #check out.txt for output
+#The output generates a ASCII character image
